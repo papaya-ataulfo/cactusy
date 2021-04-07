@@ -1,6 +1,6 @@
 baseURL = "https://kind-johnson-23be66.netlify.app/"
 languageCode = "en-us"
-title = "Cactus theme example"
+title = "Living Fluently"
 theme = "hugo-theme-cactus"
 copyright = "David Lennard" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
@@ -16,7 +16,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Writings"
+name = "Writing"
 url = "/posts"
 weight = 2
 
@@ -43,11 +43,11 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "YES!!!"
+  description = "Speaking my truth, vibing my life ~"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
+  tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
@@ -58,17 +58,17 @@ weight = 4
   show_updated = false # default
 
   [params.comments]
-    enabled = false # default
+    enabled = true # default
     engine = "disqus" # more supported engines will be added.
 
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
-    name = "github"
-    link = "https://github.com/gohugoio"
+    name = "Twitter"
+    link = "https://twitter.com/dave_lennard_/"
   [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    name = "Discord"
+    link = "https://discordapp.com/users/9151/"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "david.aaron.lennard@gmail.com"  # no need for "mailto:" in the head
