@@ -1,7 +1,7 @@
 ---
 title: "A fluid-mode framework for skill-cultivation"
 date: 2021-01-06T11:32:52-04:00
-draft: true
+draft: false
 ---
 
 *Write and refactor this*

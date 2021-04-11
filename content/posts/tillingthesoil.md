@@ -1,7 +1,7 @@
 ---
 title: "Tilling the soil"
 date: 2021-01-23T20:00:28-04:00
-draft: true
+draft: false
 tags: [essays, self-inquiry, patternshaping]
 ---
 

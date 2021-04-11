@@ -1,7 +1,7 @@
 ---
 title: "Living is dialogue with reality"
 date: 2021-02-22T18:24:38-04:00
-draft: true
+draft: false
 tags: [essays, skills, patterns, fluency]
 ---
 *Big revise here*
