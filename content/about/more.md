@@ -1,0 +1,12 @@
+## A bit about me...
+I have a personal mission for this project. It's to spread competency in shaping habits. To grow into systems of habits/patterns. To cultivate an ecology of practices. Doing these so you can grow. Grow intentionally into the life you want. These are critical skills. I want to do everything I can to spread them.
+
+I started from zero. No-one ever showed me how to form good habits. I never had any good habits. Not study habits, sleep habits, eating habits. Basically nothing. I ate pretty averagely. I played way too many hours of video games. I watched way too much Youtube and porn. Heading into college my life fell apart. I was pretty fucking miserable. I spent those years growing anxious and depressed. 
+
+It took a real fucking effort to change course. I spent a summer to start turning the ship. To break the momentum of the present course. To set a new one. I went pretty ham. I committed to a bodyweight exercise routine. I started journaling every day. I spent a lot of time getting my priorities straight. I started setting goals. I tried to get a routine going. I ate the same thing every day. I committed to making something of myself. I gave myself some momentum. 
+
+The last semester of college was better. Post-graduation was a thrill. I felt so light. I was still pretty fucking depressed. I was living across from a gas station on a busy long island main road. I buckled-in that january. I committed to make something of myself. I committed to succeed online. I chose to trust, day after day. That's still my number one touchstone. Breathe, trust, breathe. Keep going. 
+
+It's a fucking haul to get your shit together. Especially if you've never had much together. I'm still in the process. It's tough. Now is probably the most psychologically challenging time fucking ever. It's so fucking heavy. All these people online with their beautiful goddamn lives. Feeling so far from it all. Lacking the self-esteem to do anything bold. Lacking the confidence to compete. Lacking the skills, too. There's a ton of psychological funk to grow through. I'm very familiar with having a fucking mess of a psyche.
+
+Well, that's my story. I'm still deep in the thick of it. I'm doing my best to learn and grow every day. I'm not here to act like an expert. This is all me. It's what I've learned. It's where I've been. It's what I'm creating. It's where I'm going from here. 

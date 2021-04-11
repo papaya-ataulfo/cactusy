@@ -6,6 +6,7 @@ copyright = "David Lennard" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
+css = ["css/custom.css"]
 
 # summaryLength = 2
 
@@ -21,12 +22,17 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Start Here"
+url = "/StartHere"
+weight = 4
+
+[[menu.main]]
+name = "Journals"
+url = "/journals"
 weight = 3
 
 [[menu.main]]
-name = "About"
+name = "About Me"
 url = "/about"
 weight = 4
 
@@ -43,7 +49,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Speaking my truth, vibing my life ~"
+  description = "Heyo, you've found me ✌️. This is my project to explore and develop an alternative to traditional self-improvement. I've been drawn for a long while to figure out how to live as skillfully as I can manage - it's a crazy world we're living in, and I figure the more effectively I can navigate and respond to it, the more I can contribute to creating a better world, whatever that may mean. Below it looks like I haven't written anything since February, but that's inaccurate - this site's a work in progress as I migrate a lot of my thinking here from my local Obsidian vault."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
