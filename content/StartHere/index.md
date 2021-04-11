@@ -1,6 +1,4 @@
 # Hey, welcome ~ 🤲🍵
-*This site's totally a work-in-progress*
-
 I'm developing a set of practices with which to shape the self as a creative form. This is my effort to realize an alternative approach to traditional self-improvement - reimagining it to draw forth a fuller, more authentic, more beautiful way of doing personal growth.
 
 [Go here](#good-places-to-start) for a bunch of links. Otherwise, read on for a bit more intro to this project.
@@ -15,7 +13,7 @@ This is what I'm working on - exploring and articulating the theory and practice
 
 ## It's in-motion!
 
-I've been engaged in this project for the past two years, and there's no "end" in sight. I've made meaningful progress, mainly on a fresh approach to habits, yet there's a ton more to explore and figure out.
+I've been engaged in this project for the past two years, and there's no "end" in sight. I've made meaningful progress, mainly on [a fresh approach to habits](../posts/anintrooverviewofpatternshaping), yet there's a ton more to explore and figure out.
 
 It's well-time to share what I've found, and that's the purpose of this website. I'm here to gradually write the project so far into reality, and to see what comes of opening it up to co-discovery.
 
