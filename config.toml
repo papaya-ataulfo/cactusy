@@ -1,4 +1,4 @@
-baseURL = "https://kind-johnson-23be66.netlify.app/"
+baseURL = "https://livingfluently.netlify.app/"
 languageCode = "en-us"
 title = "Living Fluently"
 theme = "hugo-theme-cactus"
@@ -26,16 +26,6 @@ name = "Start Here"
 url = "/StartHere"
 weight = 4
 
-[[menu.main]]
-name = "Journals"
-url = "/journals"
-weight = 3
-
-[[menu.main]]
-name = "About Me"
-url = "/about"
-weight = 4
-
 [markup]
   [markup.tableOfContents]
     endLevel = 4
@@ -49,7 +39,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Heyo, you've found me ✌️. This is my project to explore and develop an alternative to traditional self-improvement. I've been drawn for a long while to figure out how to live as skillfully as I can manage - it's a crazy world we're living in, and I figure the more effectively I can navigate and respond to it, the more I can contribute to creating a better world, whatever that may mean. Below it looks like I haven't written anything since February, but that's inaccurate - this site's a work in progress as I migrate a lot of my thinking here from my local Obsidian vault."
+  description = "Hey, welcome 🤲🍵. This is my project to create an alternative to mainstream self-improvement, in theory and practice. I'm also journaling publicly as I navigate the landscape of my own experience, participating in the collective effort to find paths forwards. "
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
