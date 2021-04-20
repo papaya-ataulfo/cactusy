@@ -1,4 +1,4 @@
-baseURL = "https://livingfluently.netlify.app/"
+baseURL = "https://livingfluently.com/"
 languageCode = "en-us"
 title = "Living Fluently"
 theme = "hugo-theme-cactus"
@@ -39,7 +39,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hey, welcome 🤲🍵. This is my project to create an alternative to mainstream self-improvement, in theory and practice. I'm also journaling publicly as I navigate the landscape of my own experience, participating in the collective effort to find paths forwards. "
+  description = "Hey, welcome 🤲🍵. This is my project to create a craft-based approach to personal growth, in theory and practice. I'm also journaling publicly as I navigate the landscape of my own experience, participating in the collective effort to find paths forward. "
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
