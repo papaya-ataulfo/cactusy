@@ -1,7 +1,7 @@
 ---
 title: "Composition"
 date: 2021-01-29T20:00:35-04:00
-draft: false
+draft: true
 tags: [essays, composition, patternshaping, patterns]
 ---
 *Revise and refactor*

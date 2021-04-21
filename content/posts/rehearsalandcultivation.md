@@ -1,7 +1,7 @@
 ---
 title: "Rehearsal and cultivation"
 date: 2021-02-06T20:00:44-04:00
-draft: false
+draft: true
 tags: [essays, rehearsal, cultivation, patterns, patternshaping]
 ---
 

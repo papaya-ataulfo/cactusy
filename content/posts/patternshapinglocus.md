@@ -1,7 +1,7 @@
 ---
 title: "Patternshaping, home-node"
 date: 2021-01-01T17:17:14-04:00
-draft: false
+draft: true
 ---
 
 

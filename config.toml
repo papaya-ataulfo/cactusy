@@ -39,7 +39,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hey, welcome 🤲🍵. This is my project to create a craft-based approach to personal growth, in theory and practice. I'm also journaling publicly as I navigate the landscape of my own experience, participating in the collective effort to find paths forward. "
+  description = "Hey, welcome ~ 🤲🍵. I'm developing a craft-based approach to personal growth, in theory and practice. I'm also journaling publicly as I navigate my own experience, to contribute to the collective effort to find the paths forwards."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true

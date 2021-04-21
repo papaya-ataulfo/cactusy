@@ -1,7 +1,7 @@
 ---
 title: "How did we really get here?"
 date: 2021-01-11T11:11:25-04:00
-draft: false
+draft: true
 tags: [patterns, habits, mindfulness, self, inherited-self]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "How could we compose a self?"
 date: 2021-01-06T06:39:09-04:00
-draft: false
+draft: true
 tags: [self, composition, craft, skills]
 ---
 
