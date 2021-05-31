@@ -22,8 +22,8 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Start Here"
-url = "/StartHere"
+name = "Trailheads"
+url = "/Trailheads"
 weight = 4
 
 [markup]
