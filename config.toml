@@ -23,7 +23,7 @@ weight = 2
 
 [[menu.main]]
 name = "Trailheads"
-url = "https://www.notes.livingfluently.com/trailheads"
+url = "https://www.notes.livingfluently.com/"
 weight = 4
 
 [markup]
