@@ -18,13 +18,19 @@ weight = 1
 
 [[menu.main]]
 name = "Writing"
-url = "/posts"
+url = "/posts/"
 weight = 2
 
 [[menu.main]]
 name = "Trailheads"
 url = "https://www.notes.livingfluently.com/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about/"
 weight = 4
+
 
 [markup]
   [markup.tableOfContents]
@@ -33,6 +39,7 @@ weight = 4
     startLevel = 2
 
 [params]
+  css = ["css/custom.css"]
 
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
