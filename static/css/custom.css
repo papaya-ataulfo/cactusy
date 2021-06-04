@@ -940,11 +940,11 @@
     text-align: center;
   }
   #footer-post #nav-footer a {
-    color: #2bbc8a;
+    color: #77d2ff;
     font-size: 1em;
   }
   #footer-post #nav-footer a:hover {
-    background-image: linear-gradient(transparent, transparent 5px, #2bbc8a 5px, #2bbc8a);
+    background-image: linear-gradient(transparent, transparent 5px, #77d2ff 5px, #77d2ff);
     background-position: bottom;
     background-size: 100% 6px;
     background-repeat: repeat-x;
@@ -975,7 +975,7 @@
   #footer-post #actions-footer a {
     display: inline-block;
     padding-left: 1rem;
-    color: #2bbc8a;
+    color: #77d2ff;
   }
   #footer-post #share-footer {
     padding-right: 1rem;
@@ -1023,7 +1023,7 @@
     font-size: 0.8rem;
   }
   #footer-post #toc-footer #TableOfContents > ul > li > a::before {
-    color: #2bbc8a;
+    color: #77d2ff;
     content: "#";
     margin-right: 8px;
   }
@@ -1033,7 +1033,7 @@
     line-height: 15px;
   }
   #footer-post #toc-footer #TableOfContents > ul > li > ul > li:before {
-    color: #2bbc8a;
+    color: #77d2ff;
     content: "·";
     font-weight: bold;
     margin-right: 3px;
@@ -1357,7 +1357,7 @@
     -moz-border-radius: 5px;
   }
   .search-input:focus {
-    border: solid 1px #2bbc8a;
+    border: solid 1px #77d2ff;
   }
   #search-result ul.search-result-list {
     padding: 0;
@@ -1635,7 +1635,7 @@
     transition: opacity 0.2s ease-in;
   }
   .highlight .btn-copy:hover {
-    color: #2bbc8a;
+    color: #77d2ff;
   }
   .highlight pre {
     margin: 0;
