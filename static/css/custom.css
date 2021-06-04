@@ -464,7 +464,7 @@
     color: #383838;
     font-display: swap;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 1.6rem;
     font-family: "Source Sans Pro";
     src: local("Source Sans Pro"), url("../lib/Source Sans Pro/SourceSansPro-Light.ttf") format("truetype");
     line-height: 1.725;
