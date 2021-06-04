@@ -614,6 +614,7 @@
     font-weight: 600;
     font-style: normal;
     font-size: 0.9em;
+    margin-top: 7px;
   }
   #header #nav ul {
     margin: 0;
@@ -1266,7 +1267,7 @@
     color: #666;
     vertical-align: top;
     text-align: center;
-    font-size: 11px;
+    font-size: 0.7em;
   }
   #footer ul {
     margin: 0;
