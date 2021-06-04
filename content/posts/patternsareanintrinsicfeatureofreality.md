@@ -1,12 +1,8 @@
 ---
 title: "Patterns are an intrinsic feature of reality"
 date: 2021-02-13T18:46:18-04:00
-draft: true
+draft: false
 tags: [patterns, reality, nebulosity]
----
-
-_This essay is about pattern and nonpattern seen in a metaphysical light. This is essential to engage with if we want to understand how to live fluently._
-
 ---
 
 I’ve come to see pattern and nonpattern as two features of reality which appear to underlie much of the rest of it.
